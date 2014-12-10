@@ -1,1 +1,2 @@
 clonebranch
+this line should be present in private branch only
