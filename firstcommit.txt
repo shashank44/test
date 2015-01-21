@@ -1,3 +1,5 @@
 this is first commit
 this is second commit
 should be present only in privateclonebranch2
+
+should only be presnt in privateclonebranch2_clone
